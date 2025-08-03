@@ -1,4 +1,10 @@
-## Hi there 👋
+# About Me
+In Japan.  
+Just 28 years old.  
+
+# Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=python,django,html,css,bootstrap)
+
 
 <!--
 **n-natti/n-natti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
